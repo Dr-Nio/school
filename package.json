@@ -16,6 +16,10 @@
   ],
   "author": "Dr. Nio",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dr-Nio/school/issues"
+  },
+  "homepage": "https://github.com/Dr-Nio/school#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "concurrently": "^5.0.1",
