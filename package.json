@@ -8,7 +8,11 @@
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dr-Nio/school.git"
+  },
   "keywords": [
     "Task",
     "School",
